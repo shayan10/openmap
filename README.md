@@ -35,12 +35,6 @@ The program prompts for two building names or abbreviations on the UIC East camp
 - `osm.cpp` & `osm.h`: OpenStreetMap data parsing
 - `dist.cpp`: Distance calculation utilities
 
-## Future Improvements
-- Implement a graphical user interface
-- Extend to cover a larger geographical area
-- Optimize for larger datasets
-- Add multi-modal transportation options
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
