@@ -3,8 +3,6 @@
 ## Overview
 This project implements a console-based navigation system using OpenStreetMap data, focusing on the UIC East campus. It demonstrates the practical application of graph theory, data structures, and algorithms in a real-world scenario.
 
-**Note:** This project was developed as a part of the coursework at the University of Illinois Chicago (UIC) for CS 251 (Data Structures)
-
 ## Key Features
 - Custom Graph implementation using adjacency list
 - Parsing of OpenStreetMap XML data
